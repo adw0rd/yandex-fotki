@@ -36,8 +36,10 @@ Yandex-Fotki
     ?>
 
 <h3>Скриншоты</h3>
-<a href="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-adminpanel.png"><img src="http://adw0rd.ru/2009/06/wp-yandefotki-2-adminpanel-300x218.png" alt="Панель управления опциями" title="Панель управления опциями" width="300" height="218" class="alignleft size-medium wp-image-3582" style="border: dotted  #c4c4c4 2px;padding:3px;" /></a>
-<a href="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-sidebar.png"><img src="http://adw0rd.ru/2009/06/wp-yandefotki-2-sidebar-161x300.png" alt="Результат вывода фотографий" title="Результат вывода фотографий" width="161" height="300" class="alignleft size-medium wp-image-3583" style="border: dotted  #c4c4c4 2px;padding:3px;margin-left:20px;" /></a>
+<a href="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-adminpanel.png">
+    <img src="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-adminpanel.png" alt="Панель управления опциями" title="Панель управления опциями" width="300" height="218" class="alignleft size-medium wp-image-3582" style="border: dotted  #c4c4c4 2px;padding:3px;" /></a>
+<a href="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-sidebar.png">
+    <img src="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-sidebar.png" alt="Результат вывода фотографий" title="Результат вывода фотографий" width="161" height="300" class="alignleft size-medium wp-image-3583" style="border: dotted  #c4c4c4 2px;padding:3px;margin-left:20px;" /></a>
 
 <br clear="all" />
 
