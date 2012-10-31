@@ -30,11 +30,10 @@ Yandex-Fotki
 <h3>Использование</h3>
 
 Вставьте следующий php-код в вашу тему:
-<pre>
-<?php
-    yandexFotki();
-?>
-</pre>
+
+    <?php
+        yandexFotki();
+    ?>
 
 <h3>Скриншоты</h3>
 <a href="http://adw0rd.ru/media/2009/06/wp-yandefotki-2-adminpanel.png"><img src="http://adw0rd.ru/2009/06/wp-yandefotki-2-adminpanel-300x218.png" alt="Панель управления опциями" title="Панель управления опциями" width="300" height="218" class="alignleft size-medium wp-image-3582" style="border: dotted  #c4c4c4 2px;padding:3px;" /></a>
